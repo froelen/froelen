@@ -3,6 +3,7 @@
 Computer science student learning through a mix of courses and self-teaching.
 
 Currently learning: Python, HTML, CSS, JavaScript
+
 Looking to learn: Java, Rust
 
 ## What I'm working on
